@@ -98,7 +98,137 @@ export default [
     
     스타트업 회사인 '(주)이스트블루'에서 퍼블리셔로 근무 할 당시 제작했던 예약 애플리케이션 입니다. 사우나 이용자들을 타겟으로 삼았던 앱과는 달리 웹에선 사우나 제휴 업체 모집에 중점을 두어 제작했습니다.
     현재는 회사가 폐업하여 홈페이지가 존재하지 않습니다.`,
-    links: '',
+    link: 'https://github.com/parksong2/web_cisuba',
     number: 3
+  },
+  {
+    title: 'EastBlue',
+    type: 'Web',
+    role: 'Publisher',
+    year: '2017',
+    tool: 'Brackets, Adobe Photoshop & Illustrator, HTML, CSS, Javascript, jQuery',
+    thumbs: [
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_eastblue_thumbs.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_eastblue_index_0.jpg?raw=true',
+    ],
+    images: [
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_eastblue_index.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_eastblue_about.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_eastblue_service.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_eastblue_marketing.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_eastblue_contact.jpg?raw=true',
+    ],
+    content: `스타트업 회사인 '(주)이스트블루'에서 퍼블리셔로 근무 할 당시 제작했던 회사 소개 홈페이지 입니다. 
+    자체 개발 중인 솔루션과 회사의 비전 등을 소개하였습니다. 
+    현재는 회사가 폐업하여 홈페이지가 존재하지 않습니다.`,
+    link: 'https://github.com/parksong2/web_eastblue',
+    number: 4
+  },
+  {
+    title: 'OK Cashbag',
+    type: 'Web',
+    role: 'Coding',
+    year: '2017',
+    tool: 'Brackets, Adobe Photoshop & Illustrator, HTML, CSS, Javascript, jQuery',
+    thumbs: [
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_okcashbag_thumbs.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_okcashbag_index_0.jpg?raw=true',
+    ],
+    images: [
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_okcashbag_index_1.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_okcashbag_index_2.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_okcashbag_index_3.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_okcashbag_index_4.jpg?raw=true',
+    ],
+    content: `퍼블리셔 교육을 받으면서 포트폴리오 제작을 위해 디자인과 코딩한 프로젝트 입니다. 
+    OK CASHBAG 홈페이지의 인덱스 페이지를 새롭게 디자인하여 코딩했습니다. 
+    디자인에는 OK CASHBAG의 로고 색상이자 강조색인 빨강색에 중점을 두어 디자인했고, 
+    아이콘등을 사용하여 사용자의 입장에서 좀 더 직관적이어 보일 수 있도록 했습니다.`,
+    link: 'https://github.com/parksong2/web_publisher_backup/tree/master/okcashbag',
+    number: 5
+  },
+  {
+    title: 'PAT',
+    type: 'Web',
+    role: 'Coding',
+    year: '2017',
+    tool: 'Brackets, Adobe Photoshop & Illustrator, HTML, CSS, Javascript, jQuery',
+    thumbs: [
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_pat_thumbs.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_pat_index_0.jpg?raw=true',
+    ],
+    images: [
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_pat_index_1.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_pat_index_2.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_pat_index_4.jpg?raw=true',
+    ],
+    content: `퍼블리셔 교육을 받으면서 포트폴리오 제작을 위해 디자인과 코딩한 프로젝트 입니다. 
+    당시 브랜드 모델이었던 배우 라미란의 광고 영상을 비주얼로 두고 시즌 신상과 콜렉션 등을 앞세우는 레이아웃으로 디자인 했습니다.`,
+    link: 'https://github.com/parksong2/web_publisher_backup/tree/master/pat',
+    number: 6
+  },
+  {
+    title: 'What should I eat today?',
+    type: 'Mobile',
+    role: 'Coding',
+    year: '2017',
+    tool: 'Brackets, Adobe Photoshop & Illustrator, HTML, CSS, Javascript, jQuery, Phone Gab',
+    thumbs: [
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_today_eat_thumb.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_today_eat_0.jpg?raw=true',
+    ],
+    images: [
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_today_eat_1.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_today_eat_2.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_today_eat_3.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_today_eat_4.jpg?raw=true',
+    ],
+    content: `퍼블리셔 교육을 받으면서 포트폴리오 제작을 위해 디자인과 코딩한 모바일 프로젝트 입니다. 
+    디자인으로는 식욕을 돋구는 색상인 주황색을 사용하여 전체적으로 컨셉과 맞추도록 했습니다.`,
+    link: 'https://github.com/parksong2/web_publisher_backup/tree/master/app_recipe',
+    number: 7
+  },
+  {
+    title: 'Visang Edu',
+    type: 'Web',
+    role: 'Coding',
+    year: '2017',
+    tool: 'Brackets, Adobe Photoshop & Illustrator, HTML, CSS, Javascript, jQuery',
+    thumbs: [
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_visang_thumbs.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_visang_index_0.jpg?raw=true',
+    ],
+    images: [
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_visang_index_1.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_visang_index_2.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_visang_index_3.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_visang_index_4.jpg?raw=true',
+    ],
+    content: `퍼블리셔 교육을 받으면서 포트폴리오 제작을 위해 디자인과 코딩한 프로젝트 입니다. 
+    클론코딩했었던 설화수의 레이아웃들을 바탕으로 디자인을 새롭게 하여 제작하였습니다.`,
+    link: 'https://github.com/parksong2/web_publisher_backup/tree/master/visangedu',
+    number: 8
+  },
+  {
+    title: 'Sulwhasoo',
+    type: 'Web',
+    role: 'Clone Coding',
+    year: '2017',
+    tool: 'Brackets, Adobe Photoshop & Illustrator, HTML, CSS, Javascript, jQuery',
+    thumbs: [
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_amore_thumbs.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_amore_index_0.jpg?raw=true',
+    ],
+    images: [
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_amore_index_1.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_amore_index_2.jpg?raw=true',
+      'https://github.com/intersiot/pf_intersiot/blob/main/img/pf22/work_amore_index_3.jpg?raw=true',
+    ],
+    content: `퍼블리셔 교육을 받으면서 만든 설화수 홈페이지 클론코딩 입니다. 
+    마우스를 오버하면 백그라운드의 이미지가 미세하게 움직이는 동작이나, slide, ::before 등 
+    레이아웃 외에도 css transition과 제이쿼리 응용 방법을 많이 배울 수 있었습니다. 
+    특히 nav 안에 또 nav가 있는 메뉴 구성이 특이하여 기억에 남습니다.`,
+    link: 'https://github.com/parksong2/web_publisher_backup/tree/master/sulwhasoo',
+    number: 9
   },
 ]
