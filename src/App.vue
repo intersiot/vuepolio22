@@ -37,7 +37,7 @@
         <i class="fa-solid fa-address-card"></i>
       </a>
     </div>
-    <p class="copyright">@2022. <span>Vue.js Portfolio.</span> Developed by <span>Park Song Yi.</span></p>
+    <p class="copyright">@2022. <span>Vue.js Portfolio.</span><br />Developed by <span>Park Song Yi.</span></p>
   </footer>
 </template>
 
@@ -178,7 +178,7 @@ footer .follow {
   font-weight: 600;
   margin-top: 25px;
   position: absolute;
-  bottom: 60px; right: 30px;
+  bottom: 75px; right: 30px;
 }
 footer .icon {
   color: #999;
@@ -195,7 +195,8 @@ footer .icon:hover i {
 footer .copyright {
   color: #999;
   position: absolute;
-  bottom: 10px; right: 30px;
+  bottom: 0; right: 30px;
+  text-align: right;
 }
 footer .copyright span {
   font-weight: 600;
