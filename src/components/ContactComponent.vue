@@ -145,4 +145,10 @@ textarea {
     width: 400px;
   }
 }
+
+@media screen and (max-width: 400px) {
+  .gform {
+    width: 300px;
+  }
+}
 </style>
