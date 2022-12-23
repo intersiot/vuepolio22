@@ -209,4 +209,10 @@ export default {
     margin-left: 20px;
   }
 }
+
+@media screen and (max-width: 400px) {
+  .visual .v-title p {
+    font-size: 24px
+  }
+}
 </style>
