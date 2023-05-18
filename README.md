@@ -44,6 +44,6 @@ npm run build
 ```
 
 
-#### 포트폴리오 관련 참고한 블로그들
+#### 포트폴리오 관련 정리한 내용
 
 블로그: https://blog.naver.com/PostList.naver?blogId=chestnxt&from=postList&categoryNo=45
