@@ -44,6 +44,6 @@ npm run build
 ```
 
 
-#### 포트폴리오 관련 내용 정리한 내용
+#### 포트폴리오 관련 참고한 블로그들
 
-노션: https://glittery-cyclone-405.notion.site/2a680cdfc9dd457e8273e30950cd90eb
+블로그: https://blog.naver.com/PostList.naver?blogId=chestnxt&from=postList&categoryNo=45
